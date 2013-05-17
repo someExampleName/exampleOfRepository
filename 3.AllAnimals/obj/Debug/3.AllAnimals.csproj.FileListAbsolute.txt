@@ -1,0 +1,6 @@
+D:\Papchica na EeYoRee\Telerik\2012_2013\OOP\Homeworks\OOPPartI\OOPPart1\3.AllAnimals\bin\Debug\3.AllAnimals.exe.config
+D:\Papchica na EeYoRee\Telerik\2012_2013\OOP\Homeworks\OOPPartI\OOPPart1\3.AllAnimals\obj\Debug\3.AllAnimals.csprojResolveAssemblyReference.cache
+D:\Papchica na EeYoRee\Telerik\2012_2013\OOP\Homeworks\OOPPartI\OOPPart1\3.AllAnimals\bin\Debug\3.AllAnimals.exe
+D:\Papchica na EeYoRee\Telerik\2012_2013\OOP\Homeworks\OOPPartI\OOPPart1\3.AllAnimals\bin\Debug\3.AllAnimals.pdb
+D:\Papchica na EeYoRee\Telerik\2012_2013\OOP\Homeworks\OOPPartI\OOPPart1\3.AllAnimals\obj\Debug\3.AllAnimals.exe
+D:\Papchica na EeYoRee\Telerik\2012_2013\OOP\Homeworks\OOPPartI\OOPPart1\3.AllAnimals\obj\Debug\3.AllAnimals.pdb

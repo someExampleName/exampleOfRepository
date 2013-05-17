@@ -1,0 +1,2 @@
+D:\Papchica na EeYoRee\Telerik\2012_2013\OOP\Homeworks\OOPPartI\OOPPart1\1.School\bin\Debug\1.School.exe.config
+D:\Papchica na EeYoRee\Telerik\2012_2013\OOP\Homeworks\OOPPartI\OOPPart1\1.School\obj\Debug\1.School.csprojResolveAssemblyReference.cache
